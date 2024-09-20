@@ -1,1 +1,1 @@
-# Hiring-process-analytics
+This project aims to analyze the hiring process data of [Your Company Name] to uncover key insights that will help improve future hiring decisions. The data covers various aspects such as gender distribution of hires, salary trends, departmental hires, and the tier-level positions. Through this analysis, the company seeks to streamline the hiring process, ensure fair practices, and optimize salary structures.
